@@ -1,16 +1,185 @@
-## Hi there 👋
+# 👋 Hey, I'm Murad Hassan
 
-<!--
-**MuradInnovates/MuradInnovates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 B.Tech CSE Student | AI & Data Science Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical projects, learning new technologies, and continuously improving my problem-solving and development skills.
+
+> 💡 **"Learn → Build → Break → Improve → Repeat."**
+
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 B.Tech in **Computer Science & Engineering**
+* 🤖 Interested in **AI, Machine Learning & Data Science**
+* 🐍 Building projects with **Python**
+* 🧠 Improving my **DSA & problem-solving skills**
+* 🌐 Exploring **Backend Development & REST APIs**
+* 🚀 Currently building practical AI/ML projects
+* 🎯 Goal: Become a strong **Software / AI Engineer**
+* 📚 Always learning something new
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🤖 AI / Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+### 🌐 Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Based Threat Detection System
+
+AI-powered system designed to detect potential threats using computer vision and machine learning.
+
+**Tech:** Python • YOLO • OpenCV • Streamlit
+
+---
+
+### 📊 Machine Learning Projects
+
+Collection of practical ML projects covering data preprocessing, classification, regression, model evaluation and prediction.
+
+**Tech:** Python • Pandas • NumPy • Scikit-Learn
+
+---
+
+### 🌐 Backend & API Projects
+
+Backend applications and REST APIs built while learning server-side development.
+
+**Tech:** Python • Flask • FastAPI • SQL
+
+---
+
+### 💻 Java Projects
+
+A collection of Java applications developed to strengthen programming fundamentals and OOP concepts.
+
+**Tech:** Java • OOP • DSA
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 2026–27 Goals
+
+```text
+☐ Master Python
+☐ Strengthen DSA
+☐ Learn Advanced SQL
+☐ Master Machine Learning
+☐ Build Deep Learning Projects
+☐ Build Production-Level APIs
+☐ Contribute to Open Source
+☐ Build a Strong GitHub Portfolio
+☐ Prepare for Top Tech Companies
+```
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+SQL & Databases
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+Production AI Applications
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/
+murad-hassan-1290b0293/in/MuradInnovates">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muradhassan0084@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+</p>
+
