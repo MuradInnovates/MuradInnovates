@@ -1,6 +1,6 @@
 #         Murad Hassan
 
-### 🚀 B-Tech CSE Student | Data Analytics 
+### 🚀 B-Tech CSE  | Data Analytics 
 
 I'm a Computer Science Engineering student passionate about **Data Analytics & Machine Learning**.
 
