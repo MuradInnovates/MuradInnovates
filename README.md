@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Murad Hassan
+#  Murad Hassan
 
 ### 🚀 B.Tech CSE Student | AI & Data Science Enthusiast | Python Developer
 
