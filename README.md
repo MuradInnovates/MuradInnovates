@@ -1,8 +1,8 @@
-#  Murad Hassan
+#         Murad Hassan
 
-### 🚀 B.Tech CSE Student | AI & Data Science Enthusiast | Python Developer
+### 🚀 B-Tech CSE Student | Data Analytics 
 
-I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
+I'm a Computer Science Engineering student passionate about **Data Analytics & Machine Learning**.
 
 I enjoy turning ideas into practical projects, learning new technologies, and continuously improving my problem-solving and development skills.
 
@@ -13,12 +13,11 @@ I enjoy turning ideas into practical projects, learning new technologies, and co
 ## 🧑‍💻 About Me
 
 * 🎓 B.Tech in **Computer Science & Engineering**
-* 🤖 Interested in **AI, Machine Learning & Data Science**
+* 🤖 Interested in **AI, Machine Learning & Data Analytics**
 * 🐍 Building projects with **Python**
 * 🧠 Improving my **DSA & problem-solving skills**
-* 🌐 Exploring **Backend Development & REST APIs**
 * 🚀 Currently building practical AI/ML projects
-* 🎯 Goal: Become a strong **Software / AI Engineer**
+* 🎯 Goal: Become a strong **Data Analytics**
 * 📚 Always learning something new
 
 ---
@@ -31,18 +30,12 @@ I enjoy turning ideas into practical projects, learning new technologies, and co
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🤖 AI / Data Science
+### 🤖 AI / Data Analytics
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Power-Bi](https://img.shields.io/badge/Power--Bi-F7931E?style=for-the-badge\&logo=Power-Bi\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-### 🌐 Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ### ⚙️ Tools
 
@@ -115,22 +108,6 @@ A collection of Java applications developed to strengthen programming fundamenta
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuradInnovates&theme=tokyo-night&hide_border=true" />
 
 </p>
-
----
-
-## 🎯 2026–27 Goals
-
-```text
-☐ Master Python
-☐ Strengthen DSA
-☐ Learn Advanced SQL
-☐ Master Machine Learning
-☐ Build Deep Learning Projects
-☐ Build Production-Level APIs
-☐ Contribute to Open Source
-☐ Build a Strong GitHub Portfolio
-☐ Prepare for Top Tech Companies
-```
 
 ---
 
